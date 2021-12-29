@@ -1,0 +1,32 @@
+ .profile .profile-content {
+     margin-top: 100px;
+     border-radius: 6px;
+     box-shadow: 0 16px 24px 2px rgb(0 0 0 / 14%), 0 6px 30px 5px rgb(0 0 0 / 12%), 0 8px 10px -5px rgb(0 0 0 / 20%);
+ }
+
+
+ .profile .description {
+     margin: 0 auto;
+     max-width: 800px;
+ }
+
+ .profile .name {
+     text-transform: capitalize;
+     margin-top: 30px;
+     margin-bottom: 25px;
+     min-height: 32px;
+     color: #3C4858;
+     font-weight: 700;
+ }
+
+ .profile .avatar {
+     margin-top: -100px;
+ }
+
+ .profile .avatar img {
+     max-width: 150px;
+     width: 150px;
+     height: 150px;
+     width: 100%;
+     margin: 0 auto;
+ }

@@ -1,0 +1,29 @@
+.chatSection {
+    width: 100%;
+    height: 85vh;
+}
+
+.borderRight {
+    border-right: 1px solid #e0e0e0;
+}
+
+.messageArea {
+    height: 65vh;
+    overflow-y: auto;
+    padding-top: 0 !important;
+}
+
+.leftUserlist {
+    height: 400px;
+    overflow-y: auto;
+    padding-top: 0 !important;
+}
+.chatUserHeader{
+    background-color: #e0e0e0;
+}
+
+@media only screen and (max-width: 960) {
+    .chatSection {
+        height: 100%;
+    }
+}
